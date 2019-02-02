@@ -5,7 +5,7 @@
 
 ## Apps
 
-- [<img src="https://imdone.io/logo/success.svg" width=16> - imdone](https://imdone.io) - turn your TODO comments into a kanban board that's stored in your code and text files.
+- [<img src="https://imdone.io/logo/success.svg" width=16> imdone](https://imdone.io) - turn your TODO comments into a kanban board that's stored in your code and text files.
 
 ## Atom Plugins
 
