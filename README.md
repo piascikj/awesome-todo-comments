@@ -22,6 +22,10 @@
 - [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [TODO Parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser) - Parse TODOs in your working files.
 
+## Chrome Extensions
+
+- [Issue TODO](https://chrome.google.com/webstore/detail/issue-todo/fgidhanggacpalpfpnfknblehemplann) - Copy GitHub and Jira issues as TODO comments to paste in your code
+
 ## Resources
 
 - [Using TODO Comments to Keep You Programming in the Zone](https://medium.com/imdoneio/the-imdone-pitch-feedback-welcome-386430accf01)
