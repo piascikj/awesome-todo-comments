@@ -22,6 +22,13 @@
 - [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [TODO Parser](https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser) - Parse TODOs in your working files.
 
+## Resources
+
+- [Using TODO Comments to Keep You Programming in the Zone](https://medium.com/imdoneio/the-imdone-pitch-feedback-welcome-386430accf01)
+- [5 ways using TODO comments will make you a better programmer](https://medium.com/imdoneio/5-ways-using-todo-comments-will-make-you-a-better-programmer-240abd00d9e4)
+- [TODO Comments Don't Work; Add Stories Instead](https://spin.atomicobject.com/2017/08/15/todo-comments/)
+- [How I deal with TODO comments in code | stevenschwenke.de](https://stevenschwenke.de/howIDealWithTODOCommentsInCode)
+- [Keeping track of technical debt in source code | Hacker News](https://news.ycombinator.com/item?id=14112738)
 
 ## License
 
